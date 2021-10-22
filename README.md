@@ -10,7 +10,7 @@
 
 ### Preview
 
-<img src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20211023052448.gif' width='50%' />
+<img src='https://cdn.jsdelivr.net/gh/fz6m/Private-picgo@moe-2021/img/20211023052448.gif' width='40%' />
 
 ### Usage
 
